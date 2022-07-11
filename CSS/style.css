@@ -1,0 +1,70 @@
+*{
+  box-sizing: border-box;
+  margin: 0;
+  padding: 20;
+  border-style: solid;
+  border-width: 1px;
+  border-color: #424242;
+  min-height: 72px;
+}
+
+* {
+  background-color: #E8E5E5;
+}
+
+body {
+  font-family: 'Nunito', sans-serif;
+  color:#424242
+}
+
+h1 {
+  font-family: 'lato', sans-serif;
+  color:#50534F
+}
+h2 {
+  font-family: 'lato', sans-serif;
+  font-size: 80;
+  color:#50534F
+}
+h3 {
+  font-family: 'lato', sans-serif;
+  font-size: 80;
+  color:#50534F
+}
+
+#navBar {
+  height: 72px;
+  margin: 0px,5%;
+}
+
+.nav {
+  font-family: 'lato', sans-serif;
+  font-size: 18pt;
+  color:#424242
+}
+.brand {
+  background-color: #FB3F5C;
+  width: 5rem;
+  border-radius: 20 rem;
+}
+
+/* section id="heroGrid" */
+
+.introCopy {
+width: 560px;
+}
+.hero {
+  
+}
+
+.DownloadCV {
+  background-color: #FB3F5C;
+  width: 200px;
+  border-radius: 20 rem;
+}
+
+#Hello {
+  font-family: lato;
+  font-size: 40;
+  Color: Pink
+}
